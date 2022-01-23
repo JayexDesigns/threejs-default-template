@@ -1,5 +1,5 @@
 <h1 align="center">ThreeJs Default Template</h1>
-<p align="center">A simple scene with all the boring thing you don't want to do yourself</p>
+<p align="center">A simple scene with all the boring things you don't want to do yourself</p>
 <br/>
 <h2>Usage</h2>
 <p>Just clone this repository and change the things you want for your project, there are 2 cameras, grid and light helpers, renderer and it's all resizable.</p>
